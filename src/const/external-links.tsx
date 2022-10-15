@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faComment, faMoon, faSun } from '@fortawesome/free-solid-svg-icons'
+import { faComment, faMoon, faSun, faCode } from '@fortawesome/free-solid-svg-icons'
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import React from 'react'
 

@@ -6,7 +6,7 @@ export const MainContainer = styled.div`
   align-items: center;
   gap: 2rem;
   margin: auto;
-  width: 65%;
+  width: 60%;
   height: 100vh;
 
   @media (max-width: 900px) {

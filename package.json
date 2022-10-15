@@ -1,9 +1,11 @@
 {
   "name": "elias-bobadilla",
+  "author": "Elias",
+  "email": "elias.bobadilla@gmail.com",
+  "license": "GNU",
   "version": "1.0.0",
   "private": true,
   "description": "elias-bobadilla",
-  "author": "Elias",
   "keywords": [
     "gatsby"
   ],
