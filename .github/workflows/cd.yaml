@@ -13,7 +13,6 @@ jobs:
         with:
           node-version: '16'
       - run: |
-          [ -e public ] && rm -r public
           yarn install
           yarn build
           echo eliasbobadilla.com >> public/CNAME
