@@ -14,7 +14,7 @@ jobs:
           node-version: '16'
       - run: |
           yarn install
-          yarn build
+          yarn deploy
           echo eliasbobadilla.com >> public/CNAME
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
